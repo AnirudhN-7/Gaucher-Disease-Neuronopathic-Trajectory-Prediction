@@ -37,7 +37,10 @@ GBA1-Variant-Trajectory-Prediction/
 ├── data/
 │   ├── input/
 │   │   └── Final_Dataset.csv
-│   │
+|   |
+│   ├── intermediate/
+│   |   └── GBA1_Annotated_Final.csv
+|   |
 │   ├── processed/
 │   │   └── GBA1_Annotated_Final_With_Types.csv
 │   │
