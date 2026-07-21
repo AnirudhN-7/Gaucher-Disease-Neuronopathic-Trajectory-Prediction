@@ -30,9 +30,9 @@ GBA1-Variant-Trajectory-Prediction/
 │   ├── Feature_Extraction_Pipeline.ipynb
 │   └── Neuronopathy_Classification_Model.ipynb
 │
-├── scripts/
-│   ├── convert_alphamissense_to_parquet.py
-│   └── convert_dbnsfp_to_parquet.py
+├── preprocessing/
+│   ├── convert_alphamissense_to_parquet.ipynb
+│   └── convert_dbnsfp_to_parquet.ipynb
 │
 ├── data/
 │   ├── input/
