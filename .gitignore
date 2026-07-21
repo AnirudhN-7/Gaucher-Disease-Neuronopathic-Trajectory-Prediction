@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ======================================================
+# Project-specific large genomic datasets
+# ======================================================
+
+# Generated Parquet files
+AlphaMissense.parquet
+chr1.parquet
+
+# Original downloaded datasets
+AlphaMissense_isoforms_hg38.tsv
+dbNSFP5.3.1a_variant.chr1.gz
+
+# Google Colab runtime
+/content/
